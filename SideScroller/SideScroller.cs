@@ -11,11 +11,11 @@ using System.Windows.Forms;
 
 namespace SideScroller
 {
-    public partial class Form1 : Form
+    public partial class SideScroller : Form
     {
         scene1 sc1;
 
-        public Form1()
+        public SideScroller()
         {
             InitializeComponent();
             Application.Idle += HandleApplicationIdle;

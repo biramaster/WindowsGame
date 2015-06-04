@@ -1,6 +1,6 @@
 ﻿namespace SideScroller
 {
-    partial class Form1
+    partial class SideScroller
     {
         /// <summary>
         /// Required designer variable.
